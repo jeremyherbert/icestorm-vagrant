@@ -1,8 +1,10 @@
 To use this, simply clone the repository and run `vagrant up`:
 
-`git clone https://github.com/jeremyherbert/icestorm-vagrant`
-`cd icestorm-vagrant`
-`vagrant up`
+```
+git clone https://github.com/jeremyherbert/icestorm-vagrant
+cd icestorm-vagrant
+vagrant up
+```
 
 This will install the latest versions of icestorm, arachne-pnr and yosys. To access the machine, run:
 
